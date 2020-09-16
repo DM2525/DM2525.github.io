@@ -30,5 +30,3 @@
 ![プロフィール写真](profiles.jpg)
 
 <script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm33763553/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm33763553">【ゆっくり】レイアウトを作ってみた</a></noscript>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/0pyuIQ--DHc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
