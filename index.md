@@ -1,5 +1,3 @@
-![プロフィール写真](profiles.jpg)
-
 # 概要(About)
 はじめまして！D.Mと申します。  
 ニコニコ動画で鉄道模型の動画を投稿したり、ニコ生用アプリを開発しています。  
@@ -28,3 +26,9 @@
 
 # 経歴(History)
 - 経歴は非公開です(-_-;)
+
+![プロフィール写真](profiles.jpg)
+
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm33763553/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm33763553">【ゆっくり】レイアウトを作ってみた</a></noscript>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0pyuIQ--DHc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
