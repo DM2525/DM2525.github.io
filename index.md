@@ -50,3 +50,5 @@
 # リンク集(Links)
 [![募集屋＊ComeOn!](come-on_bn.jpg)](http://come-on.rdy.jp/)
 [![助っ人さんを募集してますっ☆](https://sukebo.com/img/ban/h_mono_ban2.gif)](http://www.sukebo.com/)
+
+[![ふりーむ！BBS](freem.png)](https://www.freem.ne.jp/contents/fun/bbs.html)
